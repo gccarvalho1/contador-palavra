@@ -1,0 +1,3 @@
+
+        Palavras duplicas no parágrafo 2: controle, automação, sistemas, produção, qualidade
+        Palavras duplicas no parágrafo 4: como
